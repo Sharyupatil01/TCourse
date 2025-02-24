@@ -10,6 +10,7 @@ Welcome to my second React mini-project! This application showcases a curated li
 - **Notifications**: Employs `react-toastify` for user-friendly toast notifications.🔔
 - **Data Handling**: Leverages JavaScript's `map` function for efficient data rendering.📊
 - **API Integration**: Performs API calls to fetch and display real-time course data.🅰️
+- **Javascript Map** :Performed map function usef filter to filter out the desired output📖
 
 ## Demo
 
