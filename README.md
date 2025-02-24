@@ -5,7 +5,9 @@ Welcome to my second React mini-project! This application showcases a curated li
 ## Features
 
 - **State Management**: Utilizes the `useState` hook for dynamic state handling. 💡
+- **Toastify** : Implemented toast to make notes whether the course are liked or unliked 
 - **Side Effects**: Implements the `useEffect` hook to manage component lifecycle events. ☑️
+- **React-Icons** : Implemented react icons in project 
 - **Iconography**: Integrates `react-icons` for enhanced visual appeal.❄️
 - **Notifications**: Employs `react-toastify` for user-friendly toast notifications.🔔
 - **Data Handling**: Leverages JavaScript's `map` function for efficient data rendering.📊
