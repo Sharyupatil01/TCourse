@@ -1,4 +1,4 @@
-# Top Courses
+# Top Course
 
 Welcome to my second React mini-project! This application showcases a curated list of top courses, incorporating various React features and tools.
 
@@ -14,7 +14,8 @@ Welcome to my second React mini-project! This application showcases a curated li
 - **API Integration**: Performs API calls to fetch and display real-time course data.🅰️
 - **Javascript Map** :Performed map function usef filter to filter out the desired output📖
 
-## Demo
+## Demo 
+https://t-course-gamma.vercel.app/
 
 To see the application in action, watch the demo video below:
 
